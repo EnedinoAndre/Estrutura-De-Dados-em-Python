@@ -1,0 +1,36 @@
+QUESTÃO 2 ->
+
+primeira lista
+	entrada de valores ->
+		quantidade de elentos na lista = 4
+		valor = a, valor = b, valor = c, valor = d
+
+segunda lista 
+	entrada de valores ->
+		quantidade de elementos na lista = 4
+		valor = e, valor = f, valor = g, valor = h
+
+terceira lista
+	reultado ->
+	[a,b,c,d,e,f,g,h]
+
+QUESTÃO 3 - FILA ->
+	entrada de dados ->
+		quantidade de elementos na lista = 6
+		valor = 1, valor = -4, valor = 5, valor = -8, valor = 3, valor -3
+	resultado ->
+		[1,5,3]
+
+QUESTÃO 4 - PILHA ->
+	entrada de dados ->
+		quantidade de elementos para empilhar = 6
+		valor = um, valor = dois, valor = três, valor = quatro, valor = cinco, valor = seis
+	resultado ->
+		pilha1 --> [um,dois,tres,quatro,cinco,seis]
+		pilhaAuxiliar --> [seis,cinco,quatro,três,dois,um]
+		pilha2 --> [um,dois,três,quatro,cinco,seis]
+
+Observação: "Criei uma pilha auxiliar para respeitar a estrutura de uma pilha(primeiro que entra é últmo que sai)"
+	
+
+
